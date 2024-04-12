@@ -20,6 +20,7 @@ setup(
         # ('share/' + package_name + '/urdf'+'/mycobot_pro_600', glob("urdf/mycobot_pro_600/*")),
         ('share/' + package_name + '/urdf'+'/mycobot_280_m5', glob("urdf/mycobot_280_m5/*")),
         ('share/' + package_name + '/urdf'+'/mycobot_280_pi', glob("urdf/mycobot_280_pi/*")),
+        ('share/' + package_name + '/urdf'+'/mycobot_280_gripper', glob("urdf/mycobot_280_gripper/*")),
         # ('share/' + package_name + '/urdf'+'/mecharm_270_m5', glob("urdf/mecharm_270_m5/*")),
 
         # ('share/' + package_name + '/urdf'+'/mecharm_270_pi', glob("urdf/mecharm_270_pi/*")),
